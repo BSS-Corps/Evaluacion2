@@ -4,36 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f7cd167-77c4-4066-9cb9-9c3fde154e19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Evaluacion2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Evaluacion2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Evaluacion2/Evaluacion2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Evaluacion2/Fase1/Fase1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Evaluacion2/Fase1/Fase1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Evaluacion2/Fase1/Pruebas/AirportTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Evaluacion2/Fase1/Pruebas/AirportTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Evaluacion2/Fase2/Fase2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Evaluacion2/Fase2/Fase2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Evaluacion2/Fase3/Fase3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Evaluacion2/Fase3/Fase3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Evaluacion2/Fase3/Produccion/Flight.java" beforeDir="false" afterPath="$PROJECT_DIR$/Evaluacion2/Fase3/Produccion/Flight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Evaluacion2/Fase3/Pruebas/AirportTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Evaluacion2/Fase3/Pruebas/AirportTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Evaluacion2/Fase4/Fase4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Evaluacion2/Fase4/Fase4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Evaluacion2/Fase4/Produccion/PremiumFlight.java" beforeDir="false" afterPath="$PROJECT_DIR$/Evaluacion2/Fase4/Produccion/PremiumFlight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Evaluacion2/Fase4/Pruebas/AirportTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Evaluacion2/Fase4/Pruebas/AirportTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Evaluacion2/Fase5/Fase5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Evaluacion2/Fase5/Fase5.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Evaluacion2/Fase5/Produccion/PremiumFlight.java" beforeDir="false" afterPath="$PROJECT_DIR$/Evaluacion2/Fase5/Produccion/PremiumFlight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Evaluacion2/Fase5/Pruebas/AirportTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Evaluacion2/Fase5/Pruebas/AirportTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Evaluacion2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Fase1/AirportTest$BusinessFlightTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Fase1/AirportTest$BusinessFlightTest.class" afterDir="false" />
-    </list>
+    <list default="true" id="1f7cd167-77c4-4066-9cb9-9c3fde154e19" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,7 +131,7 @@
       <workItem from="1654180827758" duration="750000" />
       <workItem from="1654181681384" duration="4307000" />
       <workItem from="1654276264736" duration="5118000" />
-      <workItem from="1654383811427" duration="9442000" />
+      <workItem from="1654383811427" duration="9623000" />
     </task>
     <servers />
   </component>
